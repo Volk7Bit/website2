@@ -8,6 +8,7 @@ body {
     font-size: 16px;
     position: relative;
     width: 1000px;
+    margin: 0 auto;
 }
 .container{
     width: 500;
